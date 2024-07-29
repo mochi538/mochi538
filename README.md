@@ -1,21 +1,18 @@
+
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
   𝐇ey! :b
+  
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
+-Developer in process...
 
 <br/>
-<br/>
+
 
 <p><img align="right" height="250" width="300" src="https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/03/que-se-necesita-estudiar-para-ser-programador-scaled-1200x900.jpg" /></p>
 
 
-
--Developer in process...
-<img align="center" height="250" width="300" src="" /></p>
-
-<br/>
-<br/>
 
 
 
@@ -96,8 +93,6 @@ ______¶¶_______¶¶________________¶¶
 ░░░███░░░░█░░░░█░
 ░░░░░░░░░░██████░
 ░░░░░░░░░░░░░░░░░
-
-
 
 </h4>  
   
