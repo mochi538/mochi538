@@ -54,33 +54,8 @@
 <h4 align="center">
 
 
-░░░░░░░░░░█░░░░░░
-
-░░░███░░░░█░░░░░░
-
-░░█░███░░░█░░░░░░
-
-░░░███░░░░█░░░░░░
-
-░░░░░░░░░░█░░░░░░
-
-░░░░░░░░░░█░░░░░░
-
-░░░░░░░░░░██████░
-
-░░░███░░░░█░░░░█░
-
-░░█░███░░░█░░░░█░
-
-░░░███░░░░█░░░░█░
-
-░░░░░░░░░░██████░
-
-░░░░░░░░░░░░░░░░
 </h4>  
   
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/github-contribution-grid-snake.svg)
-
 <br/>
 
 
@@ -98,28 +73,8 @@
 <br>
 <br>
 
-<!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C938%20hrs%2055%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20lines%20of%20code-blue)
-
-
 
 <br> <br>
-
-## 🚀 **Work Experience** :computer_mouse: :desktop_computer: 
-
-| 💼 Designation |  🏢Organization | ⏰Timeline  |
-| :-: | :-: | :-: |
-| Cloud DevOps Engineer | [Decimal Tech](https://www.linkedin.com/company/decimaltech/) | Feb 2022 - Present |
-| Open source mentor | [GSsoC](https://gssoc.girlscript.tech/) | Mar 2022 - May 2022 |
-| Open source mentor | [SWOC](https://swoc.scriptindia.org/) | Nov 2021 - Feb 2022 |
-| Open source mentor | [WoC](https://winterofcode.com/) | Nov 2021 - Feb 2022 |
-| Web Developer Intern | [Grivaa Capital](https://www.linkedin.com/company/grivaa-capital/) | Jul 2021 - Sep 2021 |
-
-
-
 
 
  Last Updated on 20/04/2024
@@ -140,8 +95,8 @@
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
   </a>
   
-  <a href="https://www.instagram.com/GovindSingh9447/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
+  <a href="https://github.com/mochi538" target="_blank">
+    <code><img height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/></code>
   </a>
     
 </p>
