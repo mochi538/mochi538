@@ -1,5 +1,5 @@
 
-<section class="background-image:(url'https://img.freepik.com/foto-gratis/planeta-ficticio-cielo-nocturno-colorido-estrellas-nebulosa_1048-7926.jpg?t=st=1741150207~exp=1741153807~hmac=0ac02d2c6495d8deb0087bb762f18ffb08a73859aeebd57284d5956ac4b3a7e4&w=900')">
+<section style="background-image[url'https://img.freepik.com/foto-gratis/planeta-ficticio-cielo-nocturno-colorido-estrellas-nebulosa_1048-7926.jpg?t=st=1741150207~exp=1741153807~hmac=0ac02d2c6495d8deb0087bb762f18ffb08a73859aeebd57284d5956ac4b3a7e4&w=900']">
 
   
 </section>
